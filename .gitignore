@@ -1,0 +1,7 @@
+predicted_pdbs
+trained_models
+__pycache__
+*.pyc
+test_files
+*.pt
+requirements.txt
